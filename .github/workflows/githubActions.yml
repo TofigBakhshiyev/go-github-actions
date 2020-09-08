@@ -1,0 +1,13 @@
+name: Go Github Actions
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  goHello:
+    runs-on: ubuntu-18.04
+    steps:
+      - name: Go Github Actions
+        run: echo "Go actions"
