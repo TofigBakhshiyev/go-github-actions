@@ -1,2 +1,2 @@
 ### Go Github Actions
-Add Docker Username and Password in Secrets in the Settings
+Add Docker Hub Username and Password in Secrets in the Settings
